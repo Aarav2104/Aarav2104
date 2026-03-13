@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Aarav Garg, in 3rd Year pursuing Computer Science and Engineering in Vellore Institute of Technology 👋
 
 <!--
 **Aarav2104/Aarav2104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
