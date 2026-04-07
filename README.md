@@ -1,4 +1,4 @@
-<h1 align="center">⚡ DAVID ⚡</h1>
+<h1 align="center">⚡ AARAV ⚡</h1>
 
 <p align="center">
   <b>Software Engineer • Open Source • Systems Architect</b>
