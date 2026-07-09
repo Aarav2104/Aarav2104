@@ -6,14 +6,6 @@
 
 ---
 
-### 🚀 Mission Stats
-
-| ⭐ Stars | 📦 Commits | 🔀 PRs | 💬 Discussions |
-|--------|----------|-------|--------------|
-| 3 | 50 | 0 | 0 |
-
----
-
 ### 🔥 Streak
 
 - 🔥 Current Streak: **7 days**
