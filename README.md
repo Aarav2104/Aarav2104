@@ -262,7 +262,7 @@ Completed NPTEL coursework and certifications.
 
 ### 🏅 Badge 02
 
-<img src= width="180" height="180" alt="Badge 02"/>
+<img src=Xqt3O07j+0EJYTN2+p7QIv114d9RGBcSBlYl0mfyHqM=.png width="180" height="180" alt="Badge 02"/>
 
 <br/><br/>
 
