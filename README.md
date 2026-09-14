@@ -256,7 +256,7 @@ Completed NPTEL coursework and certifications.
 ### 🏅 Badge 01
 
 <!-- Replace the placeholder below with your badge image -->
-<img src="YOUR_BADGE_IMAGE_01" width="180" height="180" alt="Badge 01"/>
+<img src=1779482659397.jpg width="180" height="180" alt="Badge 01"/>
 
 <br/><br/>
 
