@@ -262,31 +262,31 @@ Completed NPTEL coursework and certifications.
 
 ### 🏅 Badge 02
 
-<img src="YOUR_BADGE_IMAGE_02" width="180" height="180" alt="Badge 02"/>
+<img src= width="180" height="180" alt="Badge 02"/>
 
 <br/><br/>
 
 ### 🏅 Badge 03
 
-<img src="YOUR_BADGE_IMAGE_03" width="180" height="180" alt="Badge 03"/>
+<img src=1786653710338.jpg width="180" height="180" alt="Badge 03"/>
 
 <br/><br/>
 
 ### 🏅 Badge 04
 
-<img src="YOUR_BADGE_IMAGE_04" width="180" height="180" alt="Badge 04"/>
+<img src=1785777422873.jpg width="180" height="180" alt="Badge 04"/>
 
 <br/><br/>
 
 ### 🏅 Badge 05
 
-<img src="YOUR_BADGE_IMAGE_05" width="180" height="180" alt="Badge 05"/>
+<img src=1785126329272.png width="180" height="180" alt="Badge 05"/>
 
 <br/><br/>
 
 ### 🏅 Badge 06
 
-<img src="YOUR_BADGE_IMAGE_06" width="180" height="180" alt="Badge 06"/>
+<img src=1781892132703.jpg width="180" height="180" alt="Badge 06"/>
 
 </div>
 
