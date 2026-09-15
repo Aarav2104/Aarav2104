@@ -31,7 +31,7 @@ My interests span from **LLMs and RAG systems** to **cloud technologies, databas
 |---|---|
 | 🤖 **Artificial Intelligence** | Generative AI, LLMs, RAG, Semantic Search |
 | ☁️ **Cloud** | AWS, Oracle Cloud Infrastructure |
-| 💻 **Programming** | C++, Python |
+| 💻 **Programming** | Java, C++, Python |
 | 🗄️ **Databases** | MongoDB, Vector Databases |
 | 🔗 **AI Frameworks** | LangChain |
 | 🎨 **Design** | Figma, Canva, UI/UX |
