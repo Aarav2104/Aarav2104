@@ -5,8 +5,8 @@
 ### 💻 AI • Generative AI • Cloud • Software Development • Creative Technology
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_GITHUB_URL">GitHub</a>
+  <a href=https://www.linkedin.com/in/aarav-garg-aar0021>LinkedIn</a> •
+  <a href=https://github.com/Aarav2104>GitHub</a>
 </p>
 
 </div>
